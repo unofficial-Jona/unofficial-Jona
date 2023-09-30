@@ -1,0 +1,39 @@
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 10px 5%; /* Adjust the horizontal padding if needed */
+    background-color: #eeeeee;
+}
+
+.headshot {
+    width: 80px;   /* Adjust this for size */
+    height: 80px;  /* Adjust this for size */
+    border-radius: 50%; /* Removed to make it a square */
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #333;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 50px 5%;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}

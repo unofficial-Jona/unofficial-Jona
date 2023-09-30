@@ -1,39 +1,134 @@
-body, h1, p, a {
+/* Resetting some default styles */
+h1, p, a {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    color: #333;
+    margin-bottom: 20px;
 }
 
-header {
+/* Styling the navigation bar */
+nav {
+    background-color: #1f65c2;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 5%;
-    background-color: #f4f4f4;
+    justify-content: left;
+    padding: 1% 0; 
+    /* margin-left: 15%; */
+}
+
+.footer-nav {
+    justify-content: center;
+}
+
+.footer-nav a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #ffffff;
+    font-size: medium;
+}
+
+.main-wrapper {
+    display: flex;
+    height: 100%;
+}
+
+/* Left column styles */
+.left-column {
+    background-color: #eeeeee;
+    width: 19%;
+}
+
+/* Right column styles */
+.right-column {
+    width: 81%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+body, html {
+    height: 100%;   /* Ensure the body and html take full viewport height */
+    margin: 0;
+    font-size: medium;
+    flex-direction: row;
 }
 
 nav a {
     text-decoration: none;
     margin: 0 15px;
-    color: #333;
+    color: #ffffff;
+    font-size: x-large;
 }
 
 nav a:hover {
     text-decoration: underline;
 }
 
+/* Main content area styles */
+.content {
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    height: 100%;
+    overflow: auto;
+    
+}
+
+footer {
+    background-color: #1f65c2; /* Same as the navbar for consistency */
+    color: #ffffff; /* White text color */
+    padding: 1% 2%; /* Some padding for spacing */
+    text-align: center; /* Center the text/content */
+    font-size: medium; /* Adjust as per your preference */
+    position: relative; /* Regular positioning */
+    bottom: 0; /* Aligns at the bottom */
+    width: 100%; /* Full width */
+}
+
 .headshot {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
-
-main {
-    padding: 50px 5%;
-}
-
-h1 {
-    font-size: 2em;
+    display: block;
+    width: 75%;  /* Adjust for size preference */
+    margin: 0 auto;  /* Centering the image */
+    object-fit: cover;
+    border-radius: 50%; /* No border-radius to make it a square */
     margin-bottom: 20px;
+}
+
+.static-info {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.static-info a {
+    display: inline-block;  /* Images are inline elements by default, but specifying inline-block can provide more control */
+    margin: 0 5px;         /* Give some spacing between images */
+}
+
+.contact-link {
+    display: inline-block;
+    width: 15%; /* Adjust if necessary */
+}
+
+.contact-symbol {
+    width: 100%;
+    padding-bottom: 100%; /* This creates a square aspect ratio */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#mail-symbol {
+    background-image: url('images/mail.png');
+}
+
+#github-symbol {
+    background-image: url('images/github.png');
+}
+
+#linkedin-symbol {
+    background-image: url('images/linkedin.png');
+}
+
+#x-symbol {
+    background-image: url('images/X.png');
 }
