@@ -26,7 +26,7 @@ I'm a recent graduate from Maastricht University with a Master's degree in Data 
 ## Publications
 1. J. Aechtner, L. Cabrera, D. Katwal, P. Onghena, D. P. Valenzuela, and A. Wilbik, “Comparing user perception of explanations developed with xai methods,” in 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), IEEE, 2022, pp. 1–7. DOI: 10.1109/FUZZ-IEEE55066.2022.9882743.
 
-## MISC
+## Misc
 - **Language Proficiency:** Fluent in both German (native) and English, enabling effective communication in diverse international settings.
 - **Business Intelligence Tools:** Proficient with a range of BI tools (e.g., Power BI), facilitating insightful data visualization and decision-making.
 - **Communication Skills:** Strong ability to convey complex data science concepts to non-technical stakeholders, enhancing project collaboration and understanding.
