@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-I'm a recent graduate from Maastricht University with a Master's degree in Data Science for Decision Making. My journey in data science is defined by a deep commitment to leveraging data for actionable insights, with a particular focus on computer vision, natural language processing, and augmented reality. My experiences range from academic research, exemplified by my thesis on "Assessing Aggressive Driving Behaviour Using Attention-Based Models," to professional projects in a German healthcare consultancy, where I honed my skills in data analytics and NLP. Beyond my technical abilities, my passions for snowboarding and travel have shaped my approach to data science—valuing adaptability, open-mindedness, and the drive for continuous learning and innovation.
+I'm a recent graduate from Maastricht University with a Master's degree in Data Science for Decision Making. My journey in data science is defined by a deep commitment to leveraging data for actionable insights, with a particular focus on computer vision and natural language processing. My experiences range from academic research, exemplified by my thesis on "Assessing Aggressive Driving Behaviour Using Attention-Based Models," to professional projects in a German healthcare consultancy, where I honed my skills in data analytics and NLP. Beyond my technical abilities, my passions for snowboarding and travel have shaped my approach to data science—valuing adaptability, open-mindedness, and the drive for continuous learning and innovation.
 
 ## Education
 - M.Sc., Data Science for Decision Making @ Maastricht University (_July 2023_)
