@@ -3,11 +3,15 @@
 ## About Me
 I'm a recent graduate from Maastricht University with a Master's degree in Data Science for Decision Making. My journey in data science is defined by a deep commitment to leveraging data for actionable insights, with a particular focus on computer vision and natural language processing. My experiences range from academic research, exemplified by my thesis on "Assessing Aggressive Driving Behaviour Using Attention-Based Models," to professional projects in a German healthcare consultancy, where I honed my skills in data analytics and NLP. Beyond my technical abilities, my passions for snowboarding and travel have shaped my approach to data science—valuing adaptability, open-mindedness, and the drive for continuous learning and innovation.
 
+### Main Reserach Interests
+Throughout my master's course, I've focused on Computer Vision and its various applications. An initial course at Maastricht University provided an introduction to the topic, which I built upon by following an additional course on Computer Vision at Aarhus University. To expand my horizons, I took two courses on Augmented Reality (AR), blending the topics of edge computing and machine learning in the process. My journey into Computer Vision culminated in a master's thesis, where I explored the problem of online action detection, while simultaneously proposing an XAI component to facilitate better model understanding. As I seek to further develop my expertise and contribute to advancing the field, I am eager to pursue a PhD where I can continue to innovate and deepen my research in these areas.
+
 ## Education
 - M.Sc., Data Science for Decision Making @ Maastricht University (_July 2023_)
     - Exchange Semester @ Aarhus University
     - Thesis topic: "Assessing Aggressive Driving Behaviour Using Attention Based Models" [(pdf)](https://github.com/unofficial-Jona/assessing_ADB/blob/main/thesis.pdf)
 - B.Sc., Management Information Systems @ University Leipzig (_Novemver 2020_)
+    - Thesis topic: "Aktuelle Aspekte der Benutzerorientierung und der visuellen Datenrepräsentation von Business Intelligence Anwendungen"
 
 ## Work Experience
 **Junior Consultant for Data Science and AI @DTHS (2024 - present)**
