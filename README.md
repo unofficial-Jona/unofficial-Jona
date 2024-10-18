@@ -39,6 +39,7 @@ Throughout my master's course, I've focused on Computer Vision and its various a
 ## Technical Skills
 - Python
 - SQL
+- Data Science (numpy, pandas, matplotlib)
 - Machine Learning (SK-learn, XGBoost)
 - Deep Learning (PyTorch, Keras/TensorFlow, Huggingface)
 - Computer Vision (OpenCV, TorchVision)
