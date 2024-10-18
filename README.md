@@ -33,8 +33,8 @@ Throughout my master's course, I've focused on Computer Vision and its various a
 - Supporting the transition to Azure DevOps.
 
 ## Publications
-1. Aechtner, J., Cabrera, L., Katwal, D., Onghena, P., Valenzuela, D. P., & Wilbik, A. (2022). Comparing User Perception of Explanations Developed with XAI Methods. In 2022 IEEE INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS (FUZZ-IEEE) IEEE. https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882743
-2. Aechtner, J., Wilbik, A., & Popa, M. (2023). Assessing Aggressive Driving Behaviour Using Attention Based Models. 1-28. Paper presented at BNAIC/BeNeLearn 2023, Delft, Netherlands. https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_37.a6ea2f3417b68e7b54ba.pdf; publication in conference proceedings ongoing
+1. Aechtner, J., Cabrera, L., Katwal, D., Onghena, P., Valenzuela, D. P., & Wilbik, A. (2022). Comparing User Perception of Explanations Developed with XAI Methods. In 2022 IEEE INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS (FUZZ-IEEE) IEEE. [link](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882743)
+2. Aechtner, J., Wilbik, A., & Popa, M. (2023). Assessing Aggressive Driving Behaviour Using Attention Based Models. 1-28. Paper presented at BNAIC/BeNeLearn 2023, Delft, Netherlands. [link](https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_37.a6ea2f3417b68e7b54ba.pdf)
 
 ## Technical Skills
 - Python
